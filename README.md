@@ -6,6 +6,7 @@ CV "provisional": https://github.com/RaviOli2621/DAW-IPOP-2324/blob/main/Xavi_Ru
 
 # 2.Ipop
 Part 1: https://github.com/RaviOli2621/DAW-IPOP-2324/blob/main/IPOP-Fitxa1b-Sa%20Palomera.docx
+
 Part 2: https://github.com/RaviOli2621/DAW-IPOP-2324/blob/main/IPOP-Fitxa2b-Sa%20Palomera.docx
 # 3.PROJECCIÓ PROFESSIONAL 
 
