@@ -3,7 +3,11 @@ https://docs.github.com/es/get-started/writing-on-github/getting-started-with-wr
 
 # 1.CURRÍCULUM VITAE COMPETENCIAL
 CV "provisional": https://github.com/RaviOli2621/DAW-IPOP-2324/blob/main/Xavi_Rubio_Europass_Resume.pdf
-# 2.PROJECCIÓ PROFESSIONAL 
+
+# 2.Ipop
+Part 1: https://github.com/RaviOli2621/DAW-IPOP-2324/blob/main/IPOP-Fitxa1b-Sa%20Palomera.docx
+Part 2: https://github.com/RaviOli2621/DAW-IPOP-2324/blob/main/IPOP-Fitxa2b-Sa%20Palomera.docx
+# 3.PROJECCIÓ PROFESSIONAL 
 
   ## Objectiu/s professional/s d’especialització
 
@@ -11,7 +15,7 @@ CV "provisional": https://github.com/RaviOli2621/DAW-IPOP-2324/blob/main/Xavi_Ru
   
   ## Característiques de les empreses objectiu
 
-# 3.PLA DE PROMOCIÓ PERSONAL
+# 4.PLA DE PROMOCIÓ PERSONAL
 
   ## Estratègies 
   
